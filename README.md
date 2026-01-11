@@ -1,1 +1,1 @@
-https://diapredictor.streamlit.app/
+https://diabetes-predictor-app-fasf2fzyvgyhf35jqqbzwt.streamlit.app/
